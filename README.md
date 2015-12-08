@@ -1,1 +1,2 @@
-# sql_project
+# Week7BTask
+SQL Database

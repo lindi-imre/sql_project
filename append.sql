@@ -1,0 +1,1 @@
+ALTER TABLE meetups ADD Support VARCHAR(10) NULL;
